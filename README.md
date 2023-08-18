@@ -6,3 +6,7 @@ my analsis trying to answer some questions like :
 3. employees per state
 4. enders in each department 
 [dashboard powerbi.pdf](https://github.com/abdellatief00/hr_data_analysis/files/12070634/dashboard.powerbi.pdf)
+![1](https://github.com/abdellatief00/hr_data_analysis/assets/54186130/aeb4d84f-c799-4eec-868b-fc8ddc7d90bb)
+![2](https://github.com/abdellatief00/hr_data_analysis/assets/54186130/6022d18e-30ef-4376-85c8-519f9f6314d9)
+![3](https://github.com/abdellatief00/hr_data_analysis/assets/54186130/83c0b4e9-28f4-4bdf-b1f1-24c6eab33ef9)
+[jpg2pdf.pdf](https://github.com/abdellatief00/hr_data_analysis/files/12381289/jpg2pdf.pdf)
